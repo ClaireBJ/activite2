@@ -1,2 +1,2 @@
 # activite2
-Exercice parie 2 sur OpenClassroom
+Exercice partie 2 sur OpenClassroom
